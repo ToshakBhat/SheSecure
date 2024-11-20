@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497275900691",
+    "project_id": "she-bed65",
+    "storage_bucket": "she-bed65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497275900691:android:5111513c5ef3961226c0e6",
+        "android_client_info": {
+          "package_name": "com.example.shesecure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC22hYF9OnOGudko3NH3VeiwLmzesT0_mM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
